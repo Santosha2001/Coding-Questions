@@ -16,17 +16,13 @@ public class VowelCheck {
             if (vowels.contains(Character.toString(character))) {
                 count++;
                 System.out.print(character + ", ");
-                System.out.println();
             }
-
         }
-
-        System.out.println("number of vowels present: " + count);
-
+        System.out.println("\nnumber of vowels present: " + count);
     }
 
     public static void main(String[] args) {
 
-        vowelInString("Hello world");
+        vowelInString("Welcome to programing world");
     }
 }
