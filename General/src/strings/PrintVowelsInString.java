@@ -1,4 +1,4 @@
-package com.xworkz.com.xworkz.strings;
+package strings;
 
 import java.util.HashSet;
 

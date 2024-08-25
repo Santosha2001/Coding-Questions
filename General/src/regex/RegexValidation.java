@@ -1,4 +1,4 @@
-package com.xworkz.com.xworkz.regex;
+package regex;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

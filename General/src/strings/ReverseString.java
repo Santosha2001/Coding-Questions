@@ -1,4 +1,4 @@
-package com.xworkz.com.xworkz.strings;
+package strings;
 
 public class ReverseString {
 

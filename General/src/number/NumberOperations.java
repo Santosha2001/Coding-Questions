@@ -1,4 +1,4 @@
-package com.xworkz.number;
+package number;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

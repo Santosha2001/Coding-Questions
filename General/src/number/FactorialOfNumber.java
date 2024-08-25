@@ -1,4 +1,4 @@
-package com.xworkz.number;
+package number;
 
 public class FactorialOfNumber {
 
