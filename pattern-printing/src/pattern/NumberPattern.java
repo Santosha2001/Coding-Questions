@@ -34,6 +34,6 @@ public class NumberPattern {
     }
 
     public static void main(String[] args) {
-        printNumberPattern(5);
+        printNumberPattern(3);
     }
 }
